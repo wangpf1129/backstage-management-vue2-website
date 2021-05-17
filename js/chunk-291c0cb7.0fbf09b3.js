@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-291c0cb7"],{cf2f:function(c,e,n){},d467:function(c,e,n){"use strict";n("cf2f")},e508:function(c,e,n){"use strict";n.r(e);var t=function(){var c=this,e=c.$createElement,n=c._self._c||e;return n("div",{staticClass:"profile-wrapper"},[c._v("欢迎使用后台管理系统")])},i=[],r={name:"Profile"},s=r,f=(n("d467"),n("2877")),u=Object(f["a"])(s,t,i,!1,null,"5c1b0766",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-291c0cb7.0fbf09b3.js.map
